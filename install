@@ -1,0 +1,3 @@
+#!/bin/bash
+
+cp -v ./{search_backup.js,window.html} /opt/vivaldi/resources/vivaldi/
